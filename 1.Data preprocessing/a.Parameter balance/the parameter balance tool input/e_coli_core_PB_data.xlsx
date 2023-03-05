@@ -1,0 +1,399 @@
+!!SBtab TableID='ParameterData' TableName='Parameter' TableType='Quantity' Document='E. coli central carbon metabolism - unbalanced kinetic data' SBtabVersion='1.0'							
+!QuantityType	!Reaction:SBML:reaction:id	!Compound:SBML:species:id	!Mean	!Std	!Unit	!Reaction:Identifiers:kegg.reaction	!Compound:Identifiers:kegg.compound
+equilibrium constant	R_PFK		2.40E+03	2.40E+03	dimensionless	R00756	
+equilibrium constant	R_PFL		3.40E+03	3.40E+03	dimensionless	R00212	
+equilibrium constant	R_PGI		0.4	0.4	dimensionless	R00771	
+equilibrium constant	R_PGK		4.10E-04	4.10E-04	dimensionless	R01512	
+equilibrium constant	R_PGL		6.90E+03	6.90E+03	dimensionless	R02035	
+equilibrium constant	R_ACALD		1.20E+03	1.20E+03	dimensionless	R00228	
+equilibrium constant	R_PGM		6	6	dimensionless	R01518	
+equilibrium constant	R_ALCD2x		1.60E-04	1.60E-04	dimensionless	R00754	
+equilibrium constant	R_ACKr		3.40E-03	3.40E-03	dimensionless	R00315	
+equilibrium constant	R_PPC		4.00E+06	4.00E+06	dimensionless	R00345	
+equilibrium constant	R_ACONTa		0.03	0.03	dimensionless	R01325	
+equilibrium constant	R_ACONTb		2	2	dimensionless	R01900	
+equilibrium constant	R_ATPM		5.10E+04	5.10E+04	dimensionless	R00086	
+equilibrium constant	R_PPCK		0.01	0.01	dimensionless	R00341	
+equilibrium constant	R_PPS		0.5	0.5	dimensionless	R00199	
+equilibrium constant	R_ADK1		1	1	dimensionless	R00127	
+equilibrium constant	R_AKGDH		9.70E+04	9.70E+04	dimensionless	R08549	
+equilibrium constant	R_PTAr		0.02	0.02	dimensionless	R00230	
+equilibrium constant	R_PYK		9.80E+04	9.80E+04	dimensionless	R00200	
+equilibrium constant	R_RPE		4	4	dimensionless	R01529	
+equilibrium constant	R_CS		1.80E+06	1.80E+06	dimensionless	R00351	
+equilibrium constant	R_RPI		0.4	0.4	dimensionless	R01056	
+equilibrium constant	R_ENO		5	5	dimensionless	R00658	
+equilibrium constant	R_SUCDi		1.70E+04	1.70E+04	dimensionless	R02164	
+equilibrium constant	R_SUCOAS		2	2	dimensionless	R00405	
+equilibrium constant	R_TALA		1	1	dimensionless	R01827	
+equilibrium constant	R_TKT1		5	5	dimensionless	R01641	
+equilibrium constant	R_TKT2		60	60	dimensionless	R01830	
+equilibrium constant	R_TPI		0.1	0.1	dimensionless	R01015	
+equilibrium constant	R_FBA		1.30E-04	1.30E-04	dimensionless	R01068	
+equilibrium constant	R_FBP		2.20E+02	2.20E+02	dimensionless	R00762	
+equilibrium constant	R_FRD7		6.00E-05	6.00E-05	dimensionless	R02164	
+equilibrium constant	R_FUM		4	4	dimensionless	R01082	
+equilibrium constant	R_G6PDH2r		4	4	dimensionless	R00835	
+equilibrium constant	R_GAPD		0.1	0.1	dimensionless	R01061	
+equilibrium constant	R_GLNS		1.80E+02	1.80E+02	dimensionless	R00253	
+equilibrium constant	R_GLUDy		2.70E-07	2.70E-07	dimensionless	R00248	
+equilibrium constant	R_GLUN		2.90E+02	2.90E+02	dimensionless	R00256	
+equilibrium constant	R_GLUSy		1.10E+09	1.10E+09	dimensionless	R00114	
+equilibrium constant	R_GND		0.01	0.01	dimensionless	R01528	
+equilibrium constant	R_ICDHyr		0.1	0.1	dimensionless	R00267	
+equilibrium constant	R_ICL		0.03	0.03	dimensionless	R00479	
+equilibrium constant	R_LDH_D		5.90E-05	5.90E-05	dimensionless	R00704	
+equilibrium constant	R_MALS		1.40E+06	1.40E+06	dimensionless	R00472	
+equilibrium constant	R_MDH		5.50E-06	5.50E-06	dimensionless	R00342	
+equilibrium constant	R_ME1		6.90E-03	6.90E-03	dimensionless	R00214	
+equilibrium constant	R_ME2		6.70E-03	6.70E-03	dimensionless	R00216	
+equilibrium constant	R_NADTRHD		1	1	dimensionless	R00112	
+equilibrium constant	R_PDH		9.40E+05	9.40E+05	dimensionless	R00209	
+catalytic rate constant geometric mean	R_PFK		57.62691036	57.62691036	1/s	R00756	
+catalytic rate constant geometric mean	R_PFL		6.937748343	6.937748343	1/s	R00212	
+catalytic rate constant geometric mean	R_PGI		72.6368518	72.6368518	1/s	R00771	
+catalytic rate constant geometric mean	R_PGK		236.5235391	236.5235391	1/s	R01512	
+catalytic rate constant geometric mean	R_PGL		NaN	NaN	1/s	R02035	
+catalytic rate constant geometric mean	R_ACALD		NaN	NaN	1/s	R00228	
+catalytic rate constant geometric mean	R_PGM		117.6697361	117.6697361	1/s	R01518	
+catalytic rate constant geometric mean	R_ALCD2x		12.89441118	12.89441118	1/s	R00754	
+catalytic rate constant geometric mean	R_ACKr		798.2334327	798.2334327	1/s	R00315	
+catalytic rate constant geometric mean	R_PPC		127.8739972	127.8739972	1/s	R00345	
+catalytic rate constant geometric mean	R_ACONTa		NaN	NaN	1/s	R01325	
+catalytic rate constant geometric mean	R_ACONTb		NaN	NaN	1/s	R01900	
+catalytic rate constant geometric mean	R_ATPM		0.814248119	0.814248119	1/s	R00086	
+catalytic rate constant geometric mean	R_PPCK		NaN	NaN	1/s	R00341	
+catalytic rate constant geometric mean	R_PPS		208.6920527	208.6920527	1/s	R00199	
+catalytic rate constant geometric mean	R_ADK1		829.8484801	829.8484801	1/s	R00127	
+catalytic rate constant geometric mean	R_AKGDH		NaN	NaN	1/s	R08549	
+catalytic rate constant geometric mean	R_PTAr		1089.99458	1089.99458	1/s	R00230	
+catalytic rate constant geometric mean	R_PYK		NaN	NaN	1/s	R00200	
+catalytic rate constant geometric mean	R_RPE		487.0198702	487.0198702	1/s	R01529	
+catalytic rate constant geometric mean	R_CS		69.51801394	69.51801394	1/s	R00351	
+catalytic rate constant geometric mean	R_RPI		1128.637598	1128.637598	1/s	R01056	
+catalytic rate constant geometric mean	R_ENO		NaN	NaN	1/s	R00658	
+catalytic rate constant geometric mean	R_SUCDi		82.50988753	82.50988753	1/s	R02164	
+catalytic rate constant geometric mean	R_SUCOAS		95.46827766	95.46827766	1/s	R00405	
+catalytic rate constant geometric mean	R_TALA		NaN	NaN	1/s	R01827	
+catalytic rate constant geometric mean	R_TKT1		NaN	NaN	1/s	R01641	
+catalytic rate constant geometric mean	R_TKT2		NaN	NaN	1/s	R01830	
+catalytic rate constant geometric mean	R_TPI		1060.660172	1060.660172	1/s	R01015	
+catalytic rate constant geometric mean	R_FBA		NaN	NaN	1/s	R01068	
+catalytic rate constant geometric mean	R_FBP		NaN	NaN	1/s	R00762	
+catalytic rate constant geometric mean	R_FRD7		82.50988753	82.50988753	1/s	R02164	
+catalytic rate constant geometric mean	R_FUM		217.267563	217.267563	1/s	R01082	
+catalytic rate constant geometric mean	R_G6PDH2r		315.2046954	315.2046954	1/s	R00835	
+catalytic rate constant geometric mean	R_GAPD		172.0871872	172.0871872	1/s	R01061	
+catalytic rate constant geometric mean	R_GLNS		NaN	NaN	1/s	R00253	
+catalytic rate constant geometric mean	R_GLUDy		103.8749248	103.8749248	1/s	R00248	
+catalytic rate constant geometric mean	R_GLUN		10.60849003	10.60849003	1/s	R00256	
+catalytic rate constant geometric mean	R_GLUSy		NaN	NaN	1/s	R00114	
+catalytic rate constant geometric mean	R_GND		51.87216986	51.87216986	1/s	R01528	
+catalytic rate constant geometric mean	R_ICDHyr		56.47123161	56.47123161	1/s	R00267	
+catalytic rate constant geometric mean	R_ICL		NaN	NaN	1/s	R00479	
+catalytic rate constant geometric mean	R_LDH_D		NaN	NaN	1/s	R00704	
+catalytic rate constant geometric mean	R_MALS		NaN	NaN	1/s	R00472	
+catalytic rate constant geometric mean	R_MDH		485.6488039	485.6488039	1/s	R00342	
+catalytic rate constant geometric mean	R_ME1		3.119636085	3.119636085	1/s	R00214	
+catalytic rate constant geometric mean	R_ME2		125.8698406	125.8698406	1/s	R00216	
+catalytic rate constant geometric mean	R_NADTRHD		NaN	NaN	1/s	R00112	
+catalytic rate constant geometric mean	R_PDH		1.708303252	1.708303252	1/s	R00209	
+Michaelis constant	R_PFK	M_atp_c	0.12	0.12	mM	R00756 	C00002
+Michaelis constant	R_PFK	M_f6p_c	0.45	0.45	mM	R00756 	C00085
+Michaelis constant	R_PFK	M_adp_c	0.82825117	0.82825117	mM	R00756 	C00008
+Michaelis constant	R_PFK	M_fdp_c	11.265878	11.265878	mM	R00756 	C00354
+Michaelis constant	R_PFL	M_coa_c	0.009033272	0.009033272	mM	R00212	C00010
+Michaelis constant	R_PFL	M_pyr_c	1.7223895	1.7223895	mM	R00212	C00022
+Michaelis constant	R_PFL	M_accoa_c	0.11515207	0.11515207	mM	R00212	C00024
+Michaelis constant	R_PFL	M_for_c	15.491933	15.491933	mM	R00212	C00058
+Michaelis constant	R_PGI	M_g6p_c	221	221	mM	R00771	C00092
+Michaelis constant	R_PGI	M_f6p_c	169	169	mM	R00771	C00085
+Michaelis constant	R_PGK	M_3pg_c	1.1	1.1	mM	R01512	C00197
+Michaelis constant	R_PGK	M_atp_c	0.62747082	0.62747082	mM	R01512	C00002
+Michaelis constant	R_PGK	M_13dpg_c	0.005	0.005	mM	R01512	C00236
+Michaelis constant	R_PGK	M_adp_c	0.08378544	0.08378544	mM	R01512	C00008
+Michaelis constant	R_PGL	M_6pgl_c	0.25431803	0.25431803	mM	R02035	C01236
+Michaelis constant	R_PGL	M_h2o_c	nan	nan	mM	R02035	C00001
+Michaelis constant	R_PGL	M_6pgc_c	nan	nan	mM	R02035	C00345
+Michaelis constant	R_ACALD	M_acald_c	2.1510611	2.1510611	mM	R00228	C00084
+Michaelis constant	R_ACALD	M_coa_c	0.030927379	0.030927379	mM	R00228	C00010
+Michaelis constant	R_ACALD	M_nad_c	0.21053239	0.21053239	mM	R00228	C00003
+Michaelis constant	R_ACALD	M_accoa_c	0.016404173	0.016404173	mM	R00228	C00024
+Michaelis constant	R_ACALD	M_nadh_c	0.030486205	0.030486205	mM	R00228	C00004
+Michaelis constant	R_PGM	M_2pg_c	0.17329959	0.17329959	mM	R01518	C00631
+Michaelis constant	R_PGM	M_3pg_c	0.22	0.22	mM	R01518	C00197
+Michaelis constant	R_ALCD2x	M_etoh_c	120	120	mM	R00754	C00469
+Michaelis constant	R_ALCD2x	M_nad_c	1060	1060	mM	R00754	C00003
+Michaelis constant	R_ALCD2x	M_acald_c	3.4	3.4	mM	R00754	C00084
+Michaelis constant	R_ALCD2x	M_nadh_c	1200	1200	mM	R00754	C00004
+Michaelis constant	R_ACKr	M_ac_c	39.682636	39.682636	mM	R00315	C00033
+Michaelis constant	R_ACKr	M_atp_c	0.65300726	0.65300726	mM	R00315	C00002
+Michaelis constant	R_ACKr	M_actp_c	0.47409815	0.47409815	mM	R00315	C00227
+Michaelis constant	R_ACKr	M_adp_c	0.62223479	0.62223479	mM	R00315	C00008
+Michaelis constant	R_PPC	M_co2_c	0.19	0.19	mM	R00345	C00011
+Michaelis constant	R_PPC	M_h2o_c	nan	nan	mM	R00345	C00001
+Michaelis constant	R_PPC	M_pep_c	0.38431493	0.38431493	mM	R00345	C00074
+Michaelis constant	R_PPC	M_oaa_c	nan	nan	mM	R00345	C00036
+Michaelis constant	R_PPC	M_pi_c	nan	nan	mM	R00345	C00009
+Michaelis constant	R_ACONTa	M_cit_c	0.73118139	0.73118139	mM	R01325	C00158
+Michaelis constant	R_ACONTa	M_acon_C_c	0.016657922	0.016657922	mM	R01325	C00417
+Michaelis constant	R_ACONTa	M_h2o_c	nan	nan	mM	R01325	C00001
+Michaelis constant	R_ACONTb	M_acon_C_c	0.016657922	0.016657922	mM	R01900	C00417
+Michaelis constant	R_ACONTb	M_h2o_c	nan	nan	mM	R01900	C00001
+Michaelis constant	R_ACONTb	M_icit_c	0.19745878	0.19745878	mM	R01900	C00311
+Michaelis constant	R_ATPM	M_atp_c	1.497	1.497	mM	R00086	C00002
+Michaelis constant	R_ATPM	M_h2o_c	nan	nan	mM	R00086	C00001
+Michaelis constant	R_ATPM	M_adp_c	0.28	0.28	mM	R00086	C00008
+Michaelis constant	R_ATPM	M_pi_c	0.0002	0.0002	mM	R00086	C00009
+Michaelis constant	R_PPCK	M_atp_c	0.0416332	0.0416332	mM	R00341	C00002
+Michaelis constant	R_PPCK	M_oaa_c	0.076793118	0.076793118	mM	R00341	C00036
+Michaelis constant	R_PPCK	M_adp_c	0.20861754	0.20861754	mM	R00341	C00008
+Michaelis constant	R_PPCK	M_co2_c	0.60663899	0.60663899	mM	R00341	C00011
+Michaelis constant	R_PPCK	M_pep_c	0.21998582	0.21998582	mM	R00341	C00074
+Michaelis constant	R_PPS	M_atp_c	0.22185755	0.22185755	mM	R00199	C00002
+Michaelis constant	R_PPS	M_h2o_c	nan	nan	mM	R00199	C00001
+Michaelis constant	R_PPS	M_pyr_c	0.15399629	0.15399629	mM	R00199	C00022
+Michaelis constant	R_PPS	M_amp_c	1	1	mM	R00199	C00020
+Michaelis constant	R_PPS	M_pep_c	0.4	0.4	mM	R00199	C00074
+Michaelis constant	R_PPS	M_pi_c	20.079841	20.079841	mM	R00199	C00009
+Michaelis constant	R_ADK1	M_amp_c	0.38	0.38	mM	R00127	C00020
+Michaelis constant	R_ADK1	M_atp_c	0.044	0.044	mM	R00127	C00002
+Michaelis constant	R_ADK1	M_adp_c	0.35	0.35	mM	R00127	C00008
+Michaelis constant	R_AKGDH	M_akg_c	4	4	mM	R08549	C00026
+Michaelis constant	R_AKGDH	M_coa_c	nan	nan	mM	R08549	C00010
+Michaelis constant	R_AKGDH	M_nad_c	nan	nan	mM	R08549	C00003
+Michaelis constant	R_AKGDH	M_co2_c	nan	nan	mM	R08549	C00011
+Michaelis constant	R_AKGDH	M_nadh_c	nan	nan	mM	R08549	C00004
+Michaelis constant	R_AKGDH	M_succoa_c	0.077459667	0.077459667	mM	R08549	C00091
+Michaelis constant	R_PTAr	M_accoa_c	0.075396273	0.075396273	mM	R00230	C00024
+Michaelis constant	R_PTAr	M_pi_c	1.8634989	1.8634989	mM	R00230	C00009
+Michaelis constant	R_PTAr	M_actp_c	0.30478181	0.30478181	mM	R00230	C00227
+Michaelis constant	R_PTAr	M_coa_c	0.10579575	0.10579575	mM	R00230	C00010
+Michaelis constant	R_PYK	M_adp_c	14.1	14.1	mM	R00200	C00008
+Michaelis constant	R_PYK	M_pep_c	nan	nan	mM	R00200	C00074
+Michaelis constant	R_PYK	M_atp_c	0.35	0.35	mM	R00200	C00002
+Michaelis constant	R_PYK	M_pyr_c	nan	nan	mM	R00200	C00022
+Michaelis constant	R_RPE	M_ru5p__D_c	0.86969557	0.86969557	mM	R01529	C00199
+Michaelis constant	R_RPE	M_xu5p__D_c	nan	nan	mM	R01529	C00231
+Michaelis constant	R_CS	M_accoa_c	0.050864382	0.050864382	mM	R00351	C00024
+Michaelis constant	R_CS	M_h2o_c	nan	nan	mM	R00351	C00001
+Michaelis constant	R_CS	M_oaa_c	0.033920097	0.033920097	mM	R00351	C00036
+Michaelis constant	R_CS	M_cit_c	0.001	0.001	mM	R00351	C00158
+Michaelis constant	R_CS	M_coa_c	nan	nan	mM	R00351	C00010
+Michaelis constant	R_RPI	M_r5p_c	2.2	2.2	mM	R01056	C00117
+Michaelis constant	R_RPI	M_ru5p__D_c	3.1464265	3.1464265	mM	R01056	C00199
+Michaelis constant	R_ENO	M_2pg_c	0.17909162	0.17909162	mM	R00658	C00631
+Michaelis constant	R_ENO	M_h2o_c	nan	nan	mM	R00658	C00001
+Michaelis constant	R_ENO	M_pep_c	0.25808761	0.25808761	mM	R00658	C00074
+Michaelis constant	R_SUCDi	M_q8_c	0.037084298	0.037084298	mM	R02164	C00399
+Michaelis constant	R_SUCDi	M_succ_c	0.11895397	0.11895397	mM	R02164	C00042
+Michaelis constant	R_SUCDi	M_fum_c	0.10381729	0.10381729	mM	R02164	C00122
+Michaelis constant	R_SUCDi	M_q8h2_c	nan	nan	mM	R02164	C00390
+Michaelis constant	R_SUCOAS	M_atp_c	0.090092484	0.090092484	mM	R00405	C00002
+Michaelis constant	R_SUCOAS	M_coa_c	0.086881013	0.086881013	mM	R00405	C00010
+Michaelis constant	R_SUCOAS	M_succ_c	2.2969796	2.2969796	mM	R00405	C00042
+Michaelis constant	R_SUCOAS	M_adp_c	0.061357924	0.061357924	mM	R00405	C00008
+Michaelis constant	R_SUCOAS	M_pi_c	1.003992	1.003992	mM	R00405	C00009
+Michaelis constant	R_SUCOAS	M_succoa_c	0.027912311	0.027912311	mM	R00405	C00091
+Michaelis constant	R_TALA	M_g3p_c	0.084433137	0.084433137	mM	R01827	C00118
+Michaelis constant	R_TALA	M_s7p_c	0.28683033	0.28683033	mM	R01827	C05382
+Michaelis constant	R_TALA	M_e4p_c	0.031862242	0.031862242	mM	R01827	C00279
+Michaelis constant	R_TALA	M_f6p_c	nan	nan	mM	R01827	C00085
+Michaelis constant	R_TKT1	M_r5p_c	0.63	0.63	mM	R01641	C00117
+Michaelis constant	R_TKT1	M_xu5p__D_c	0.49	0.49	mM	R01641	C00231
+Michaelis constant	R_TKT1	M_g3p_c	4.9	4.9	mM	R01641	C00118
+Michaelis constant	R_TKT1	M_s7p_c	4	4	mM	R01641	C05382
+Michaelis constant	R_TKT2	M_e4p_c	0.36	0.36	mM	R01830	C00279
+Michaelis constant	R_TKT2	M_xu5p__D_c	0.49	0.49	mM	R01830	C00231
+Michaelis constant	R_TKT2	M_f6p_c	nan	nan	mM	R01830	C00085
+Michaelis constant	R_TKT2	M_g3p_c	4.9	4.9	mM	R01830	C00118
+Michaelis constant	R_TPI	M_dhap_c	0.69	0.69	mM	R01015	C00111
+Michaelis constant	R_TPI	M_g3p_c	0.55	0.55	mM	R01015	C00118
+Michaelis constant	R_FBA	M_fdp_c	0.0519	0.0519	mM	R01068	C00354
+Michaelis constant	R_FBA	M_dhap_c	0.16124515	0.16124515	mM	R01068	C00111
+Michaelis constant	R_FBA	M_g3p_c	0.13076697	0.13076697	mM	R01068	C00118
+Michaelis constant	R_FBP	M_fdp_c	0.013652535	0.013652535	mM	R00762	C00354
+Michaelis constant	R_FBP	M_h2o_c	nan	nan	mM	R00762	C00001
+Michaelis constant	R_FBP	M_f6p_c	nan	nan	mM	R00762	C00085
+Michaelis constant	R_FBP	M_pi_c	nan	nan	mM	R00762	C00009
+Michaelis constant	R_FRD7	M_fum_c	0.10381729	0.10381729	mM	R02164	C00122
+Michaelis constant	R_FRD7	M_q8h2_c	nan	nan	mM	R02164	C00390
+Michaelis constant	R_FRD7	M_q8_c	0.037084298	0.037084298	mM	R02164	C00399
+Michaelis constant	R_FRD7	M_succ_c	0.11895397	0.11895397	mM	R02164	C00042
+Michaelis constant	R_FUM	M_fum_c	0.18043722	0.18043722	mM	R01082	C00122
+Michaelis constant	R_FUM	M_h2o_c	nan	nan	mM	R01082	C00001
+Michaelis constant	R_FUM	M_mal__L_c	0.64666009	0.64666009	mM	R01082	C00149
+Michaelis constant	R_G6PDH2r	M_g6p_c	45.8	45.8	mM	R00835	C00092
+Michaelis constant	R_G6PDH2r	M_nadp_c	4.67	4.67	mM	R00835	C00006
+Michaelis constant	R_G6PDH2r	M_6pgl_c	nan	nan	mM	R00835	C01236
+Michaelis constant	R_G6PDH2r	M_nadph_c	0.014	0.014	mM	R00835	C00005
+Michaelis constant	R_GAPD	M_g3p_c	0.77	0.77	mM	R01061	C00118
+Michaelis constant	R_GAPD	M_nad_c	0.022	0.022	mM	R01061	C00003
+Michaelis constant	R_GAPD	M_pi_c	2.7492159	2.7492159	mM	R01061	C00009
+Michaelis constant	R_GAPD	M_13dpg_c	0.14	0.14	mM	R01061	C00236
+Michaelis constant	R_GAPD	M_nadh_c	0.01	0.01	mM	R01061	C00004
+Michaelis constant	R_GLNS	M_atp_c	0.848973	0.848973	mM	R00253	C00002
+Michaelis constant	R_GLNS	M_glu__L_c	3.0583199	3.0583199	mM	R00253	C00025
+Michaelis constant	R_GLNS	M_nh4_c	nan	nan	mM	R00253	C00014
+Michaelis constant	R_GLNS	M_adp_c	0.025496428	0.025496428	mM	R00253	C00008
+Michaelis constant	R_GLNS	M_gln__L_c	4.8618162	4.8618162	mM	R00253	C00064
+Michaelis constant	R_GLNS	M_pi_c	nan	nan	mM	R00253	C00009
+Michaelis constant	R_GLUDy	M_glu__L_c	10.7	10.7	mM	R00248	C00025
+Michaelis constant	R_GLUDy	M_h2o_c	nan	nan	mM	R00248	C00001
+Michaelis constant	R_GLUDy	M_nadp_c	0.044702737	0.044702737	mM	R00248	C00006
+Michaelis constant	R_GLUDy	M_akg_c	2.1	2.1	mM	R00248	C00026
+Michaelis constant	R_GLUDy	M_nadph_c	nan	nan	mM	R00248	C00005
+Michaelis constant	R_GLUDy	M_nh4_c	13.4	13.4	mM	R00248	C00014
+Michaelis constant	R_GLUN	M_gln__L_c	0.24570617	0.24570617	mM	R00256	C00064
+Michaelis constant	R_GLUN	M_h2o_c	nan	nan	mM	R00256	C00001
+Michaelis constant	R_GLUN	M_glu__L_c	500	500	mM	R00256	C00025
+Michaelis constant	R_GLUN	M_nh4_c	1.7	1.7	mM	R00256	C00014
+Michaelis constant	R_GLUSy	M_akg_c	0.059220369	0.059220369	mM	R00114	C00026
+Michaelis constant	R_GLUSy	M_gln__L_c	0.30882278	0.30882278	mM	R00114	C00064
+Michaelis constant	R_GLUSy	M_nadph_c	0.015190327	0.015190327	mM	R00114	C00005
+Michaelis constant	R_GLUSy	M_glu__L_c	nan	nan	mM	R00114	C00025
+Michaelis constant	R_GLUSy	M_nadp_c	nan	nan	mM	R00114	C00006
+Michaelis constant	R_GND	M_6pgc_c	0.017811853	0.017811853	mM	R01528	C00345
+Michaelis constant	R_GND	M_nadp_c	0.016784756	0.016784756	mM	R01528	C00006
+Michaelis constant	R_GND	M_co2_c	41.231056	41.231056	mM	R01528	C00011
+Michaelis constant	R_GND	M_nadph_c	0.000663325	0.000663325	mM	R01528	C00005
+Michaelis constant	R_GND	M_ru5p__D_c	0.14142136	0.14142136	mM	R01528	C00199
+Michaelis constant	R_ICDHyr	M_icit_c	0.012273293	0.012273293	mM	R00267	C00311
+Michaelis constant	R_ICDHyr	M_nadp_c	0.013897071	0.013897071	mM	R00267	C00006
+Michaelis constant	R_ICDHyr	M_akg_c	0.19720985	0.19720985	mM	R00267	C00026
+Michaelis constant	R_ICDHyr	M_co2_c	0.50990195	0.50990195	mM	R00267	C00011
+Michaelis constant	R_ICDHyr	M_nadph_c	0.016229825	0.016229825	mM	R00267	C00005
+Michaelis constant	R_ICL	M_icit_c	0.23468716	0.23468716	mM	R00479	C00311
+Michaelis constant	R_ICL	M_glx_c	0.050247772	0.050247772	mM	R00479	C00048
+Michaelis constant	R_ICL	M_succ_c	0.19778832	0.19778832	mM	R00479	C00042
+Michaelis constant	R_LDH_D	M_lac__D_c	8.4052922	8.4052922	mM	R00704	C00256
+Michaelis constant	R_LDH_D	M_nad_c	0.13543292	0.13543292	mM	R00704	C00003
+Michaelis constant	R_LDH_D	M_nadh_c	0.013519368	0.013519368	mM	R00704	C00004
+Michaelis constant	R_LDH_D	M_pyr_c	0.3938737	0.3938737	mM	R00704	C00022
+Michaelis constant	R_MALS	M_accoa_c	0.020407339	0.020407339	mM	R00472	C00024
+Michaelis constant	R_MALS	M_glx_c	0.061187468	0.061187468	mM	R00472	C00048
+Michaelis constant	R_MALS	M_h2o_c	nan	nan	mM	R00472	C00001
+Michaelis constant	R_MALS	M_coa_c	nan	nan	mM	R00472	C00010
+Michaelis constant	R_MALS	M_mal__L_c	nan	nan	mM	R00472	C00149
+Michaelis constant	R_MDH	M_mal__L_c	0.59870169	0.59870169	mM	R00342	C00149
+Michaelis constant	R_MDH	M_nad_c	0.12812311	0.12812311	mM	R00342	C00003
+Michaelis constant	R_MDH	M_nadh_c	0.027138618	0.027138618	mM	R00342	C00004
+Michaelis constant	R_MDH	M_oaa_c	0.034479991	0.034479991	mM	R00342	C00036
+Michaelis constant	R_ME1	M_mal__L_c	1.3886827	1.3886827	mM	R00214	C00149
+Michaelis constant	R_ME1	M_nad_c	0.13879151	0.13879151	mM	R00214	C00003
+Michaelis constant	R_ME1	M_co2_c	13.48	13.48	mM	R00214	C00011
+Michaelis constant	R_ME1	M_nadh_c	0.054772256	0.054772256	mM	R00214	C00004
+Michaelis constant	R_ME1	M_pyr_c	15.03	15.03	mM	R00214	C00022
+Michaelis constant	R_ME2	M_mal__L_c	0.96	0.96	mM	R00216	C00149
+Michaelis constant	R_ME2	M_nadp_c	0.0092	0.0092	mM	R00216	C00006
+Michaelis constant	R_ME2	M_co2_c	nan	nan	mM	R00216	C00011
+Michaelis constant	R_ME2	M_nadph_c	0.0053	0.0053	mM	R00216	C00005
+Michaelis constant	R_ME2	M_pyr_c	7.2	7.2	mM	R00216	C00022
+Michaelis constant	R_NADTRHD	M_nad_c	0.091358028	0.091358028	mM	R00112	C00003
+Michaelis constant	R_NADTRHD	M_nadph_c	0.014138185	0.014138185	mM	R00112	C00005
+Michaelis constant	R_NADTRHD	M_nadh_c	0.013378573	0.013378573	mM	R00112	C00004
+Michaelis constant	R_NADTRHD	M_nadp_c	0.007617412	0.007617412	mM	R00112	C00006
+Michaelis constant	R_PDH	M_coa_c	0.003464102	0.003464102	mM	R00209	C00010
+Michaelis constant	R_PDH	M_nad_c	0.041024383	0.041024383	mM	R00209	C00003
+Michaelis constant	R_PDH	M_pyr_c	0.0359	0.0359	mM	R00209	C00022
+Michaelis constant	R_PDH	M_accoa_c	0.030581258	0.030581258	mM	R00209	C00024
+Michaelis constant	R_PDH	M_co2_c	nan	nan	mM	R00209	C00011
+Michaelis constant	R_PDH	M_nadh_c	nan	nan	mM	R00209	C00004
+substrate catalytic rate constant	R_PFK		41.75	41.75	1/s	R00756	
+substrate catalytic rate constant	R_PFL		4.056353	4.056353	1/s	R00212	
+substrate catalytic rate constant	R_PGI		125.62172	125.62172	1/s	R00771	
+substrate catalytic rate constant	R_PGK		67.158925	67.158925	1/s	R01512	
+substrate catalytic rate constant	R_PGL		468	468	1/s	R02035	
+substrate catalytic rate constant	R_ACALD		nan	nan	1/s	R00228	
+substrate catalytic rate constant	R_PGM		530	530	1/s	R01518	
+substrate catalytic rate constant	R_ALCD2x		5.4158254	5.4158254	1/s	R00754	
+substrate catalytic rate constant	R_ACKr		1179.6331	1179.6331	1/s	R00315	
+substrate catalytic rate constant	R_PPC		270	270	1/s	R00345	
+substrate catalytic rate constant	R_ACONTa		3.3	3.3	1/s	R01325	
+substrate catalytic rate constant	R_ACONTb		3.3	3.3	1/s	R01900	
+substrate catalytic rate constant	R_ATPM		0.0051	0.0051	1/s	R00086	
+substrate catalytic rate constant	R_PPCK		21.112205	21.112205	1/s	R00341	
+substrate catalytic rate constant	R_PPS		1330	1330	1/s	R00199	
+substrate catalytic rate constant	R_ADK1		783	783	1/s	R00127	
+substrate catalytic rate constant	R_AKGDH		nan	nan	1/s	R08549	
+substrate catalytic rate constant	R_PTAr		792.05879	792.05879	1/s	R00230	
+substrate catalytic rate constant	R_PYK		67	67	1/s	R00200	
+substrate catalytic rate constant	R_RPE		1300	1300	1/s	R01529	
+substrate catalytic rate constant	R_CS		40.499408	40.499408	1/s	R00351	
+substrate catalytic rate constant	R_RPI		1405.8805	1405.8805	1/s	R01056	
+substrate catalytic rate constant	R_ENO		197.83576	197.83576	1/s	R00658	
+substrate catalytic rate constant	R_SUCDi		85.572486	85.572486	1/s	R02164	
+substrate catalytic rate constant	R_SUCOAS		201	201	1/s	R00405	
+substrate catalytic rate constant	R_TALA		6.44	6.44	1/s	R01827	
+substrate catalytic rate constant	R_TKT1		45	45	1/s	R01641	
+substrate catalytic rate constant	R_TKT2		69	69	1/s	R01830	
+substrate catalytic rate constant	R_TPI		4500	4500	1/s	R01015	
+substrate catalytic rate constant	R_FBA		nan	nan	1/s	R01068	
+substrate catalytic rate constant	R_FBP		nan	nan	1/s	R00762	
+substrate catalytic rate constant	R_FRD7		79.556898	79.556898	1/s	R02164	
+substrate catalytic rate constant	R_FUM		409.59643	409.59643	1/s	R01082	
+substrate catalytic rate constant	R_G6PDH2r		174	174	1/s	R00835	
+substrate catalytic rate constant	R_GAPD		134	134	1/s	R01061	
+substrate catalytic rate constant	R_GLNS		nan	nan	1/s	R00253	
+substrate catalytic rate constant	R_GLUDy		130	130	1/s	R00248	
+substrate catalytic rate constant	R_GLUN		1.8	1.8	1/s	R00256	
+substrate catalytic rate constant	R_GLUSy		nan	nan	1/s	R00114	
+substrate catalytic rate constant	R_GND		27.456347	27.456347	1/s	R01528	
+substrate catalytic rate constant	R_ICDHyr		106.3	106.3	1/s	R00267	
+substrate catalytic rate constant	R_ICL		nan	nan	1/s	R00479	
+substrate catalytic rate constant	R_LDH_D		633	633	1/s	R00704	
+substrate catalytic rate constant	R_MALS		51.897048	51.897048	1/s	R00472	
+substrate catalytic rate constant	R_MDH		1034.7807	1034.7807	1/s	R00342	
+substrate catalytic rate constant	R_ME1		0.09	0.09	1/s	R00214	
+substrate catalytic rate constant	R_ME2		99.058874	99.058874	1/s	R00216	
+substrate catalytic rate constant	R_NADTRHD		nan	nan	1/s	R00112	
+substrate catalytic rate constant	R_PDH		37.9	37.9	1/s	R00209	
+product catalytic rate constant	R_PFK		79.541576	79.541576	1/s	R00756	
+product catalytic rate constant	R_PFL		11.865918	11.865918	1/s	R00212	
+product catalytic rate constant	R_PGI		42	42	1/s	R00771	
+product catalytic rate constant	R_PGK		833	833	1/s	R01512	
+product catalytic rate constant	R_PGL		nan	nan	1/s	R02035	
+product catalytic rate constant	R_ACALD		nan	nan	1/s	R00228	
+product catalytic rate constant	R_PGM		26.124843	26.124843	1/s	R01518	
+product catalytic rate constant	R_ALCD2x		30.7	30.7	1/s	R00754	
+product catalytic rate constant	R_ACKr		540.14813	540.14813	1/s	R00315	
+product catalytic rate constant	R_PPC		60.562071	60.562071	1/s	R00345	
+product catalytic rate constant	R_ACONTa		nan	nan	1/s	R01325	
+product catalytic rate constant	R_ACONTb		nan	nan	1/s	R01900	
+product catalytic rate constant	R_ATPM		130	130	1/s	R00086	
+product catalytic rate constant	R_PPCK		nan	nan	1/s	R00341	
+product catalytic rate constant	R_PPS		32.746145	32.746145	1/s	R00199	
+product catalytic rate constant	R_ADK1		879.5	879.5	1/s	R00127	
+product catalytic rate constant	R_AKGDH		nan	nan	1/s	R08549	
+product catalytic rate constant	R_PTAr		1500	1500	1/s	R00230	
+product catalytic rate constant	R_PYK		nan	nan	1/s	R00200	
+product catalytic rate constant	R_RPE		182.45258	182.45258	1/s	R01529	
+product catalytic rate constant	R_CS		119.32901	119.32901	1/s	R00351	
+product catalytic rate constant	R_RPI		906.06764	906.06764	1/s	R01056	
+product catalytic rate constant	R_ENO		nan	nan	1/s	R00658	
+product catalytic rate constant	R_SUCDi		79.556898	79.556898	1/s	R02164	
+product catalytic rate constant	R_SUCOAS		45.344239	45.344239	1/s	R00405	
+product catalytic rate constant	R_TALA		nan	nan	1/s	R01827	
+product catalytic rate constant	R_TKT1		nan	nan	1/s	R01641	
+product catalytic rate constant	R_TKT2		nan	nan	1/s	R01830	
+product catalytic rate constant	R_TPI		250	250	1/s	R01015	
+product catalytic rate constant	R_FBA		59.7	59.7	1/s	R01068	
+product catalytic rate constant	R_FBP		23.4	23.4	1/s	R00762	
+product catalytic rate constant	R_FRD7		85.572486	85.572486	1/s	R02164	
+product catalytic rate constant	R_FUM		115.24806	115.24806	1/s	R01082	
+product catalytic rate constant	R_G6PDH2r		571	571	1/s	R00835	
+product catalytic rate constant	R_GAPD		221	221	1/s	R01061	
+product catalytic rate constant	R_GLNS		42	42	1/s	R00253	
+product catalytic rate constant	R_GLUDy		83	83	1/s	R00248	
+product catalytic rate constant	R_GLUN		62.522256	62.522256	1/s	R00256	
+product catalytic rate constant	R_GLUSy		30.8	30.8	1/s	R00114	
+product catalytic rate constant	R_GND		98	98	1/s	R01528	
+product catalytic rate constant	R_ICDHyr		30	30	1/s	R00267	
+product catalytic rate constant	R_ICL		25.541005	25.541005	1/s	R00479	
+product catalytic rate constant	R_LDH_D		nan	nan	1/s	R00704	
+product catalytic rate constant	R_MALS		nan	nan	1/s	R00472	
+product catalytic rate constant	R_MDH		227.92729	227.92729	1/s	R00342	
+product catalytic rate constant	R_ME1		108.13477	108.13477	1/s	R00214	
+product catalytic rate constant	R_ME2		159.93738	159.93738	1/s	R00216	
+product catalytic rate constant	R_NADTRHD		333	333	1/s	R00112	
+product catalytic rate constant	R_PDH		0.077	0.077	1/s	R00209	

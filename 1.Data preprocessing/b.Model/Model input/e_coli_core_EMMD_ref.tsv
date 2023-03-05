@@ -1,0 +1,105 @@
+!!!SBtab Document='E. coli central carbon metabolism - balanced parameters' SBtabVersion='1.0'			
+!!SBtab TableID='MetaboliteConcentrationData' TableType='Quantity' Unit='mM'			
+!QuantityType	!Compound	!Value	!comment
+concentration	M_gln__L_c	nan	
+concentration	M_glu__L_c	nan	
+concentration	M_glx_c	nan	
+concentration	M_h2o_c	nan	
+concentration	M_icit_c	0.008160872	
+concentration	M_lac__D_c	nan	
+concentration	M_mal__L_c	1.685342446	
+concentration	M_nad_c	2.112813254	
+concentration	M_nadh_c	0.02741513	
+concentration	M_nadp_c	0.011288198	
+concentration	M_nadph_c	0.113891569	
+concentration	M_nh4_c	nan	
+concentration	M_13dpg_c	nan	
+concentration	M_2pg_c	0.636948598	
+concentration	M_3pg_c	0.795820051	
+concentration	M_oaa_c	nan	
+concentration	M_pep_c	0.353157713	
+concentration	M_6pgc_c	0.27853881	
+concentration	M_pi_c	nan	
+concentration	M_6pgl_c	nan	
+concentration	M_ac_c	nan	
+concentration	M_pyr_c	1.405154084	
+concentration	M_q8_c	nan	
+concentration	M_q8h2_c	nan	
+concentration	M_r5p_c	0.230228763	
+concentration	M_ru5p__D_c	0.658756018	
+concentration	M_acald_c	nan	
+concentration	M_s7p_c	nan	
+concentration	M_accoa_c	0.606	
+concentration	M_succ_c	1.185325381	
+concentration	M_succoa_c	0.233	
+concentration	M_acon_C_c	0.0161	
+concentration	M_xu5p__D_c	0.594614278	
+concentration	M_actp_c	nan	
+concentration	M_adp_c	0.604612373	
+concentration	M_akg_c	nan	
+concentration	M_amp_c	nan	
+concentration	M_atp_c	3.449139474	
+concentration	M_cit_c	0.702862499	
+concentration	M_co2_c	nan	
+concentration	M_coa_c	1.37	
+concentration	M_dhap_c	1.320288867	
+concentration	M_e4p_c	0.026636791	
+concentration	M_etoh_c	nan	
+concentration	M_f6p_c	0.335967224	
+concentration	M_fdp_c	nan	
+concentration	M_for_c	nan	
+concentration	M_fum_c	0.548242249	
+concentration	M_g3p_c	nan	
+concentration	M_g6p_c	0.949160667	
+			
+!!SBtab TableID='EnzymeConcentrationData' TableType='Quantity' Unit='mM'			
+!QuantityType	!Reaction	!Value	
+concentration of enzyme	R_PFK	nan	
+concentration of enzyme	R_PFL	nan	
+concentration of enzyme	R_PGI	nan	
+concentration of enzyme	R_PGK	nan	
+concentration of enzyme	R_PGL	nan	
+concentration of enzyme	R_ACALD	nan	
+concentration of enzyme	R_PGM	nan	
+concentration of enzyme	R_ALCD2x	nan	
+concentration of enzyme	R_ACKr	nan	
+concentration of enzyme	R_PPC	nan	
+concentration of enzyme	R_ACONTa	nan	
+concentration of enzyme	R_ACONTb	nan	
+concentration of enzyme	R_ATPM	nan	
+concentration of enzyme	R_PPCK	nan	
+concentration of enzyme	R_PPS	nan	
+concentration of enzyme	R_ADK1	nan	
+concentration of enzyme	R_AKGDH	nan	
+concentration of enzyme	R_PTAr	nan	
+concentration of enzyme	R_PYK	nan	
+concentration of enzyme	R_RPE	nan	
+concentration of enzyme	R_CS	nan	
+concentration of enzyme	R_RPI	nan	
+concentration of enzyme	R_ENO	nan	
+concentration of enzyme	R_SUCDi	nan	
+concentration of enzyme	R_SUCOAS	nan	
+concentration of enzyme	R_TALA	nan	
+concentration of enzyme	R_TKT1	nan	
+concentration of enzyme	R_TKT2	nan	
+concentration of enzyme	R_TPI	nan	
+concentration of enzyme	R_FBA	nan	
+concentration of enzyme	R_FBP	nan	
+concentration of enzyme	R_FRD7	nan	
+concentration of enzyme	R_FUM	nan	
+concentration of enzyme	R_G6PDH2r	nan	
+concentration of enzyme	R_GAPD	nan	
+concentration of enzyme	R_GLNS	nan	
+concentration of enzyme	R_GLUDy	nan	
+concentration of enzyme	R_GLUN	nan	
+concentration of enzyme	R_GLUSy	nan	
+concentration of enzyme	R_GND	nan	
+concentration of enzyme	R_ICDHyr	nan	
+concentration of enzyme	R_ICL	nan	
+concentration of enzyme	R_LDH_D	nan	
+concentration of enzyme	R_MALS	nan	
+concentration of enzyme	R_MDH	nan	
+concentration of enzyme	R_ME1	nan	
+concentration of enzyme	R_ME2	nan	
+concentration of enzyme	R_NADTRHD	nan	
+concentration of enzyme	R_PDH	nan	
