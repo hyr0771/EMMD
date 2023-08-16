@@ -1,6 +1,6 @@
-**Important Note:** Our corresponding paper has just been published, and the code in this repository is currently being updated to reflect the final version presented in the paper. The update is expected to be completed by Aug 14, 2023. We appreciate your patience and interest in our work. Thank you! 
+**Important Note:** Our corresponding paper has just been published, and the code in this repository is currently being updated to reflect the final version presented in the paper. The update is expected to be completed by Sept 4, 2023. We appreciate your patience and interest in our work. Thank you! 
 
-**重要提示:** 我们对应的论文刚刚发表，本仓库中的代码正在更新中，以反映在论文中呈现的最终版本。预计2023-8-14前就会更新完成。感谢您的耐心和对我们工作的关注，谢谢！
+**重要提示:** 我们对应的论文刚刚发表，本仓库中的代码正在更新中，以反映在论文中呈现的最终版本。预计2023-9-4前就会更新完成。感谢您的耐心和对我们工作的关注，谢谢！
 
 Enzyme Mass Minimization Decomposition 
 ------------------------
